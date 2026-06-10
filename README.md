@@ -1,12 +1,20 @@
-<img width="1254" height="1254" alt="ChatGPT Image Jun 11, 2026, 01_11_24 AM" src="https://github.com/user-attachments/assets/dc41ce31-4134-421c-9676-88071a632575" />
-<h1 align="center">Hey, I'm Mohamed Faizee</h1>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/dc41ce31-4134-421c-9676-88071a632575"
+    alt="Mohamed Faizee"
+    width="220"
+    style="border-radius: 50%;"
+  />
+</p>
 
-<h3 align="center">
-AI Developer • Automation Engineer • Full-Stack Builder • Founder
-</h3>
+<h1 align="center">Hey, I'm Mohamed Faizee 👋</h1>
 
 <p align="center">
-Building AI agents, intelligent automation systems, blockchain applications, and scalable software products.
+  <strong>AI Developer • Automation Engineer • Full-Stack Builder • Founder</strong>
+</p>
+
+<p align="center">
+  Building AI Agents, Intelligent Automations, Web Applications, and Web3 Products.
 </p>
 
 <p align="center">
