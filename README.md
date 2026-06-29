@@ -21,7 +21,7 @@
 AI Developer Intern @ Dnyx Business Solutions &nbsp;|&nbsp;
 AI Automation Intern @ Ego Technologies &nbsp;|&nbsp;
 AI Product Developer @ Flyte AI &nbsp;|&nbsp;
-Founder's Office Intern @ UnlockDiscounts
+
 </p>
 
 ---
