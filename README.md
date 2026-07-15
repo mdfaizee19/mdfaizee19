@@ -2,7 +2,7 @@
   <img
     src="https://github.com/user-attachments/assets/dc41ce31-4134-421c-9676-88071a632575"
     alt="Mohamed Faizee"
-    width="220"
+    width="150"
     style="border-radius: 50%;"
   />
 </p>
@@ -11,6 +11,33 @@
 
 <p align="center">
   <strong>AI Developer • Automation Engineer • Full-Stack Builder • Founder</strong>
+</p>
+
+```
+
+      ___________________       mdfaizee19@github
+     /                   \      -----------------
+    /   .---------------.  \    OS: Windows 11, WSL2 (Linux)
+    |   |   >_           |  |   Host: Flyte AI (Founder)
+    |   |    AI  AGENT   |  |   Kernel: AI Developer & Automation Engineer
+    |   |   01001101     |  |   IDE: VS Code 1.96
+    |   '---------------'  |    
+    |___________________|       Languages.Programming: Python, JavaScript, Java, C++, C
+         |    |    |            Languages.Real: English, Tamil, Kannada, Hindi
+         |    |    |            
+      ___|____|____|___         Hobbies: Reading AI papers & tech blogs, Competitive coding, Building AI agents
+     /                   \      
+    /_____________________\     Contact.Email: mohamedfaizee19@gmail.com
+                                Contact.LinkedIn: linkedin.com/in/mohamed-faizee
+                                Contact.GitHub: github.com/mdfaizee19
+                                
+                                GitHub Stats: see live badges below
+
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdfaizee19&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaizee19&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
