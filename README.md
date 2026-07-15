@@ -1,16 +1,9 @@
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/dc41ce31-4134-421c-9676-88071a632575"
-    alt="Mohamed Faizee"
-    width="150"
-    style="border-radius: 50%;"
-  />
-</p>
+
 
 <h1 align="center">Hey, I'm Mohamed Faizee 👋</h1>
 
 <p align="center">
-  <strong>AI Developer • Automation Engineer • Full-Stack Builder</strong>
+  <strong>AI Developer • Automation Engineer • </strong>
 </p>
 
 ```
