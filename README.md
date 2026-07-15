@@ -15,19 +15,21 @@
 
 ```
 
-      ___________________       mdfaizee19@github
-     /                   \      -----------------
-    /   .---------------.  \    OS: Windows 11, WSL2 (Linux)
-    |   |   >_           |  |   Kernel: AI Developer & Automation Engineer
-    |   |    AI  AGENT   |  |   IDE: VS Code 1.96
-    |   |   01001101     |  |
-    |   '---------------'  |    Languages.Programming: Python, JavaScript, Java, C++, C
-    |___________________|       Languages.Real: English, Tamil, Kannada, Hindi
-         |    |    |
-         |    |    |            Contact.Email: mohamedfaizee19@gmail.com
-      ___|____|____|___         Contact.LinkedIn: linkedin.com/in/mohamed-faizee
-     /                   \      Contact.GitHub: github.com/mdfaizee19
-    /_____________________\
+        ▄▄▄▄▄▄▄▄▄▄▄▄          mdfaizee19@github
+      ▄████████████████▄      -----------------
+     ██████████████████████   OS: Windows 11, WSL2 (Linux)
+     ██████████████████████   Kernel: AI Developer & Automation Engineer
+     ▀████████████████████▀   IDE: VS Code 1.96
+        ██▀▀    ▀▀██
+        ██  ▄▄▄▄▄  ██         Languages.Programming: Python, JavaScript, Java, C++, C
+         ██▀     ▀██          Languages.Real: English, Tamil, Kannada, Hindi
+          ████████
+        ▄▄██████████▄▄        Contact.Email: mohamedfaizee19@gmail.com
+      ▄████████████████▄      Contact.LinkedIn: linkedin.com/in/mohamed-faizee
+     ██████▄▄▄▄▄▄▄▄██████     Contact.GitHub: github.com/mdfaizee19
+     ████████    ████████
+       █████  ⌚   █████
+         ██████████
 
 ```
 
