@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Hey, I'm Mohamed Faizee 👋</h1>
+<h1 align="center">Hey Lads, I'm Faizee </h1>
 
 <p align="center">
-  <strong>AI Developer • Automation Engineer • </strong>
+  <strong>AIML ENGINEERL x BASE CHAIN BUILDER • </strong>
 </p>
 
 ```
@@ -59,18 +59,6 @@ Contact.Email: mohamedfaizee19@gmail.com
 Contact.LinkedIn: linkedin.com/in/mohamed-faizee
 Contact.GitHub: github.com/mdfaizee19
 ```
-
----
-
-# Flagship Projects
-
-### Blockchain Token Creator
-
-Platform for creating and deploying custom blockchain tokens with automated testing and deployment pipelines.
-
-### Attestr
-
-AI-powered Web3 due-diligence agent — analyzes smart contract risk, on-chain vaults, and produces automated research reports.
 
 ---
 
