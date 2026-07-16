@@ -3,7 +3,7 @@
 <h1 align="center">Hey Lads, I'm Faizee </h1>
 
 <p align="center">
-  <strong>AIML ENGINEERL x BASE CHAIN BUILDER • </strong>
+  <strong>AIML ENGINEER  x BASE CHAIN BUILDER • </strong>
 </p>
 
 ```
