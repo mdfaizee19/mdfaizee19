@@ -46,10 +46,10 @@
 ```
 
 ```
-mdfaizee19@github
+mdfaizee19@gmail.com
 -----------------
 OS: Windows 11, WSL2 (Linux)
-Kernel: AI Developer & Automation Engineer
+Kernel: AIML ENGINEER & L2 BASE CHAIN BUILDER
 IDE: VS Code 1.96
 
 Languages.Programming: Python, JavaScript, Java, C++, C
